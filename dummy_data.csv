@@ -1,0 +1,7 @@
+id;date;source;source_type;news_text;category1;category2;category3;relevancy_score;high_priority;comment
+1;30.05.2016;www.abc.com;RSS;"Pressures of unions labor costs in china keeps on…
+";Labor Cost Asia Pacific;Labor Costs;China;0.8;yes;"relevant for labor cost in china an high priority as it refers to ""strikes"""
+2;30.05.2016;www.cbc.com;RSS;salaries in china are under..;Labor Cost Asia Pacific;Labor Costs;China;0.8;no;
+3;30.05.2016;www.xyz.com;RSS;temporary labor employed at apple are increasing;Labor Cost Asia Pacific;Labor Costs;Philippines;0.1;no;not relevant as is a news specific for a company (e.g. apple)
+4;30.05.2016;www.xyz.com;RSS;;Crude Oil Asia Pacific;Fuel Costs;Asia ;0.8;no;
+5;30.05.2016;www.xyz.com;RSS;Diesel launched a new jeans model…;Crude Oil Asia Pacific;;;0.1;no;not relevant as it relates to diesel the company
